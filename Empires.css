@@ -1,0 +1,227 @@
+body{
+    background: black;
+}
+h1{
+    text-align: center;
+    color: gray;
+}
+nav h2{
+    text-align: center;  
+    color: gray;
+    text-indent: 130px; 
+    float: left;
+    display: inline;
+    position: relative;
+} 
+h2 a{
+    color: gray;
+}
+a:hover{
+    color: sandybrown;
+}
+section{
+    clear: both;
+}
+.giriş{
+    text-indent: 15px;
+    color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.moğol{
+    text-align: center;
+    color: sandybrown;
+}
+.britanya{
+    text-align: center;
+    color: sandybrown;
+}
+.roma{
+    text-align: center;
+    color: sandybrown;
+    
+}
+.sovyet{
+    text-align: center;
+    color: sandybrown;
+    
+}
+.qing{
+    text-align: center;
+    color: sandybrown;
+   
+}
+.pers{
+    text-align: center;
+    color: sandybrown;
+   
+}
+.osmanlı{
+    text-align: center;
+    color: sandybrown;
+}
+.p1{
+    border: 2px solid sandybrown;
+    border-radius: 11px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p2{
+    text-indent: 15px;
+    border: 2px solid sandybrown;
+    border-radius: 11px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p3{
+    text-indent: 15px;
+    border: 2px solid sandybrown;
+    border-radius: 11px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p4{
+    text-indent: 15px;
+    border: 2px solid sandybrown;
+    border-radius: 11px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p5{
+    text-indent: 15px;
+    border: 2px solid sandybrown;
+    border-radius: 11px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p6{
+    text-indent: 15px;
+    border: 2px solid sandybrown;
+    border-radius: 11px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p7{
+    text-indent: 15px;
+    border: 2px solid sandybrown;
+    border-radius: 11px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    float: left;
+    width: 12%;
+    height: 400px;
+    overflow: auto;
+    margin: 15px;
+}
+
+/* Galeri Kısmı İçin */
+h1{
+    text-align: center;
+    color: sandybrown;
+}
+
+.img1{
+    width: 100%;
+  
+}
+.galeri1{
+    width: 12%;
+    float: left;
+    border: 2px solid sandybrown;
+    border-radius: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px;
+    height: 220px;
+
+}
+.pgaleri1{
+    font-style: italic;
+    color: white;
+    text-indent: 15px;
+}
+.footer{
+    clear: both;
+    font-size: medium;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.color{
+    color: white;
+}
+.color1{
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+}
+/* Hakkımızda Kısmı İçin */
+
+.notfound{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-shadow: 5px 5px 10px sandybrown;
+    text-align: center;
+}
+.erisim{
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 5px 5px 10px sandybrown;
+}
+.anasayfa{
+    color: white;
+    text-decoration: none;
+}
+
+/* İletişim Kısmı İçim */
+.iletisim{
+    background: gray;
+}
+.form{
+    text-align: center;
+}
+.hesap{
+    color: white;;
+}
+.insta{
+    width: 50px;
+    height: 50px;
+}
+.twitter{
+    width: 50px;
+    height: 50px;
+}
+.facebook{
+    width: 50px;
+    height: 50px;
+}
+.linkedin{
+    width: 50px;
+    height: 50px;
+}
+.github{
+    width: 50px;
+    height: 50px;
+}
+.form1{
+    text-align: center;
+}
+.bilgiler{
+    color: white;
+}
+input{
+    border: 1px solid turquoise;
+}
+.name{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.address{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.message{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
